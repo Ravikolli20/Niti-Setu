@@ -1,9 +1,9 @@
 # Niti-Setu 🌾 
-#** Depolyed website link: https://niti-setu-sand.vercel.app/**
 ### RAG-Powered Government Scheme Eligibility Engine
 
 Eligibility decisions are made by retrieving relevant chunks from real official government PDFs and reasoning over them with **Google Gemini 2.5 Flash** — not from hardcoded rules. Every result includes a direct citation from the document.
 
+# Depolyed website link: https://niti-setu-sand.vercel.app/
 ---
 
 ## Architecture
